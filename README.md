@@ -3,7 +3,7 @@
 
 
 - 🌱 Figuring out **Jetpack Compose**.
-- 💬 I know a few things about **Android Studio** , **Java** , **Kotlin** , **XML** , **Jetpack Compose**.
+- 💬 I know a few things about **Android Studio**, **Java**, **Kotlin**, **XML**, **Jetpack Compose**.
 - 📫 You can reach me at: **randhiroct2000@gmail.com**
 
 
