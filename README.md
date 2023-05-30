@@ -2,9 +2,9 @@
 
 
 
-- 🌱 I’m currently learning **Jetpack Compose**.
-- 💬 Ask me about **Android Studio** , **Java** , **Kotlin** , **XML** , **Jetpack Compose**.
-- 📫 Reach me at: **randhiroct2000@gmail.com**
+- 🌱 Figuring out **Jetpack Compose**.
+- 💬 I know a few things about **Android Studio** , **Java** , **Kotlin** , **XML** , **Jetpack Compose**.
+- 📫 You can reach me at: **randhiroct2000@gmail.com**
 
 
 
