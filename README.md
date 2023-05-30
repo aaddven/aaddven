@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**.
 - 💬 Ask me about **Android Studio** , **Java** , **Kotlin** , **XML** , **Jetpack Compose**.
-- 📫 Reach me at: **randhir@iitk.ac.in/randhiroct2000@gmail.com**
+- 📫 Reach me at: **randhiroct2000@gmail.com**
 
 
 
