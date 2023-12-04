@@ -4,7 +4,7 @@
 
 - 🌱 Figuring out **Jetpack Compose**.
 - 💬 I know a few things about **Android Studio**, **Java**, **Kotlin**, **XML** and **Jetpack Compose**.
-- 📫 You can reach me at: **randhiroct2000@gmail.com**
+- 📫 You can reach me at: **randhir@iitk.ac.in**
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aaddven&&show_icons=true&title_color=13EF3B&icon_color=13EF3B&text_color=daf7dc&bg_color=000000"> 
