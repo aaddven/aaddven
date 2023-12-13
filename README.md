@@ -1,5 +1,5 @@
 ## <h1 align="center">Hola 👋, I'm Randhir</h1>
-<h3 align="center">I know a few things about Native Android Development</h3>
+<h3 align="center">I know a few things about NATIVE ANDROID DEVELOPMENT</h3>
 
 - 💬 Ask me about **Android Studio, Jetpack Compose, Kotlin**
 
