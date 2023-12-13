@@ -1,8 +1,10 @@
-# 💫 About Me:
+## <h1 align="center">Hola 👋, I'm Randhir</h1>
+<h3 align="center">I know a few things about Native Android Development</h3>
+
 💬 Ask me about Android Studio, Jetpack Compose and Kotlin<br>
 
 
-## 🌐 Socials:
+## 🌐 Contect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/randhir-kumar-52ba78195) 
 
 # 💻 Tech Stack:
