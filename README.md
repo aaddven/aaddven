@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hola, I'm Randhir. I know a few things about NATIVE ANDROID DEVELOPMENT
 💬 Ask me about Android Studio, Jetpack Compose and Kotlin<br>
 
 
