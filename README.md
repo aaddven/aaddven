@@ -1,5 +1,4 @@
-## <div align="center">**Hey, I'm Randhir**! 👋 </div>
-<h1 align="center">Hola 👋, I'm Randhir</h1>
+## <h1 align="center">Hola 👋, I'm Randhir</h1>
 <h3 align="center">I know a few things about Native Android Development</h3>
 
 - 💬 Ask me about **Android Studio, Jetpack Compose, Kotlin**
