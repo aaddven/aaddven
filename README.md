@@ -1,8 +1,8 @@
-<h2 align="center">Hola 👋! I'm Randhir</h2>
+<h1 align="center">Hola 👋! I'm Randhir</h1>
 
 ###
 
-<h3 align="center">Tech enthusiast, open to embracing new technologies and challenges.</h3>
+<h2 align="center">Tech enthusiast, open to embracing new technologies and challenges.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">I know a few things about Jetpack Compose, Flutter, Java, Kotlin and Dart.</h4>
+<h3 align="left">I know a few things about Jetpack Compose, Flutter, Java, Kotlin and Dart.</h3>
 
 ###
 
