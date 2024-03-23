@@ -34,11 +34,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaddven&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=aaddven&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaddven&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -56,7 +51,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R2N29tYjl4OWVtYm0xb2c3Z3kwZ2dvaGJ3ZzM1NDhtMDByaXYyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLcUG7QiR0jpMzoNUu/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R2N29tYjl4OWVtYm0xb2c3Z3kwZ2dvaGJ3ZzM1NDhtMDByaXYyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLcUG7QiR0jpMzoNUu/giphy.gif"/>
 
 ###
 
