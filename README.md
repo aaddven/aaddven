@@ -12,7 +12,7 @@
 </div>
 
 <div align="right">
-  <img height="200" src="https://tenor.com/bEN2g.gif"  />
+  <img height="100" src="https://tenor.com/bEN2g.gif"/>
 </div>
 
 ###
