@@ -12,7 +12,7 @@
 </div>
 
 <div align="right">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R2N29tYjl4OWVtYm0xb2c3Z3kwZ2dvaGJ3ZzM1NDhtMDByaXYyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLcUG7QiR0jpMzoNUu/giphy.gif"  />
+  <img height="200" src="https://tenor.com/bEN2g.gif"  />
 </div>
 
 ###
