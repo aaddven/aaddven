@@ -6,11 +6,14 @@
 
 ###
 
-<h3 align="left">I can develop both native Android apps and multi-platform apps.</h3>
+<div align="left">
+  <h3>I can develop both native Android apps and multi-platform apps.</h3>
+  <h3>I know a few things about Jetpack Compose, Flutter, Java, Kotlin and Dart.</h3>
+</div>
 
-###
-
-<h3 align="left">I know a few things about Jetpack Compose, Flutter, Java, Kotlin and Dart.</h3>
+<div align="right">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R2N29tYjl4OWVtYm0xb2c3Z3kwZ2dvaGJ3ZzM1NDhtMDByaXYyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLcUG7QiR0jpMzoNUu/giphy.gif"  />
+</div>
 
 ###
 
@@ -46,7 +49,7 @@
   <a href="https://linkedin.com/in/randhir-kumar-52ba78195" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="22" alt="linkedin logo"  />
   </a>
-  <a href="randhiroct2000@gmail.com" target="_blank">
+  <a href="mailto:randhiroct2000@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="22" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/aaddven/" target="_blank">
@@ -56,14 +59,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R2N29tYjl4OWVtYm0xb2c3Z3kwZ2dvaGJ3ZzM1NDhtMDByaXYyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLcUG7QiR0jpMzoNUu/giphy.gif"  />
-
-###
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/aaddven/count.svg?"  />
 </div>
-
-###
