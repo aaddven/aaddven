@@ -7,8 +7,8 @@
 ###
 
 <div align="left">
-  <h3>I can develop both native Android apps and multi-platform apps.</h3>
-  <h3>I know a few things about Jetpack Compose, Flutter, Java, Kotlin and Dart.</h3>
+  <h3>I can develop native Android apps and multi-platform apps.</h3>
+  <h3>I know about Jetpack Compose, Flutter, Java, Kotlin, and Dart.</h3>
 </div>
 
 <div align="right">
