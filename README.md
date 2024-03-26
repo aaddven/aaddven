@@ -6,16 +6,12 @@
 
 ###
 
-<div style="display: flex;">
+
   <div>
-    <h3 style="font-size: 20px;">I can develop both native Android apps and multi-platform apps.</h3>
-    <h3 style="font-size: 20px;">I know a few things about Jetpack Compose, Flutter, Java, Kotlin and Dart.</h3>
+    <h3>I can develop both native Android apps and multi-platform apps.</h3>
+    <h3>I know a few things about Jetpack Compose, Flutter, Java, Kotlin and Dart.</h3>
   </div>
   
-  <div align="right">
-    <img height="100" src="https://media1.tenor.com/m/zV25x0_yY7oAAAAd/what-cat.gif"/>
-  </div>
-</div>
 
 ###
 
